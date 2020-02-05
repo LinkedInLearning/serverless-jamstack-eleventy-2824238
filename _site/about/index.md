@@ -1,4 +1,9 @@
-# About Me
+---
+title: About Me
+layout: base
+---
+
+# {{title}}
 
 ![http://pixelprowess.com/i/raybo01.jpg](http://pixelprowess.com/i/raybo01.jpg)
 

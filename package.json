@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course **Building Serverless Apps with JAMStack and Eleventy**. The full course is available from [LinkedIn Learning](<[http://linkedin](https://www.linkedin.com/learning/)>).",
   "scripts": {
-    "start": "eleventy --serve"
+    "start": "eleventy --serve --quiet"
   },
   "author": "Ray Villalobos"
 }
