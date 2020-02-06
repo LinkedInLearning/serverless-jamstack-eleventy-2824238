@@ -1,0 +1,389 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Audry Topsy",
+      "title": "Owner",
+      "company": "Topsy Turvy Cake Designs",
+      "profile_photo": "30825.jpg",
+      "friends": [
+        {
+          "id": "2",
+          "name": "Dahlia Landon",
+          "title": "CEO",
+          "company": "Landon Hotel",
+          "profile_photo": "15436.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Dalania Devitto",
+          "title": "Executive Director",
+          "company": "OVCAA",
+          "profile_photo": "33926.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Dr. Elizabeth Chase",
+          "title": "Owner",
+          "company": "Wisdom Pet Medicine",
+          "profile_photo": "15919.jpg"
+        }
+      ],
+      "posts": [
+        {
+          "id": "1",
+          "user_id": "1",
+          "title": "This is my first post!",
+          "text": "Exciting to start posting here! This is a photo I took.",
+          "image": "70439.jpeg",
+          "link": "",
+          "date_created": "2018-07-10 12:58:12",
+          "comments": [
+            {
+              "id": "1",
+              "post_id": "1",
+              "user_id": "4",
+              "text": "That's a great post!",
+              "date_created": "2018-07-10 13:05:52",
+              "user": {
+                "id": "4",
+                "name": "Dr. Elizabeth Chase",
+                "title": "Owner",
+                "company": "Wisdom Pet Medicine",
+                "profile_photo": "15919.jpg"
+              }
+            },
+            {
+              "id": "3",
+              "post_id": "1",
+              "user_id": "3",
+              "text": "YES! Super cool!!",
+              "date_created": "2018-07-10 13:06:29",
+              "user": {
+                "id": "3",
+                "name": "Dalania Devitto",
+                "title": "Executive Director",
+                "company": "OVCAA",
+                "profile_photo": "33926.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "user_id": "1",
+          "title": "Second post",
+          "text": "Now I'm going to share only a link with you!",
+          "image": "",
+          "link": "https://www.linkedin.com/learning",
+          "date_created": "2018-07-10 12:58:47",
+          "comments": [
+            {
+              "id": "2",
+              "post_id": "2",
+              "user_id": "4",
+              "text": "Loving these posts!!",
+              "date_created": "2018-07-10 13:06:12",
+              "user": {
+                "id": "4",
+                "name": "Dr. Elizabeth Chase",
+                "title": "Owner",
+                "company": "Wisdom Pet Medicine",
+                "profile_photo": "15919.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "user_id": "1",
+          "title": "Third post",
+          "text": "How about a link AND a photo!? ",
+          "image": "70471.jpeg",
+          "link": "https://www.linkedin.com/",
+          "date_created": "2018-07-10 12:59:40"
+        }
+      ],
+      "albums": [
+        {
+          "id": "1",
+          "user_id": "1",
+          "title": "My First Album",
+          "photos": [
+            {
+              "id": "1",
+              "album_id": "1",
+              "title": "My first photo!",
+              "image": "70362.jpeg",
+              "date_created": "2018-07-10 12:54:22"
+            },
+            {
+              "id": "2",
+              "album_id": "1",
+              "title": "My second photo!",
+              "image": "70378.jpeg",
+              "date_created": "2018-07-10 12:54:46"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "user_id": "1",
+          "title": "My Second Album",
+          "photos": [
+            {
+              "id": "3",
+              "album_id": "2",
+              "title": "I also have 1",
+              "image": "70381.jpeg",
+              "date_created": "2018-07-10 12:54:59"
+            },
+            {
+              "id": "4",
+              "album_id": "2",
+              "title": "I also have a second photo",
+              "image": "70413.jpeg",
+              "date_created": "2018-07-10 12:55:14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dahlia Landon",
+      "title": "CEO",
+      "company": "Landon Hotel",
+      "profile_photo": "15436.jpg",
+      "friends": [
+        {
+          "id": "1",
+          "name": "Audry Topsy",
+          "title": "Owner",
+          "company": "Topsy Turvy Cake Designs",
+          "profile_photo": "30825.jpg"
+        }
+      ],
+      "posts": [
+        {
+          "id": "4",
+          "user_id": "2",
+          "title": "Posting my first text",
+          "text": "My first text is very short",
+          "image": "",
+          "link": "",
+          "date_created": "2018-07-10 13:02:17"
+        },
+        {
+          "id": "5",
+          "user_id": "2",
+          "title": "Second post",
+          "text": "With a photo now!",
+          "image": "70473.jpeg",
+          "link": "",
+          "date_created": "2018-07-10 13:02:43"
+        },
+        {
+          "id": "6",
+          "user_id": "2",
+          "title": "Third post",
+          "text": "With a link",
+          "image": "",
+          "link": "https://www.linkedin.com/learning/react-ecosystems/state-management?u=104",
+          "date_created": "2018-07-10 13:03:14"
+        }
+      ],
+      "albums": [
+        {
+          "id": "3",
+          "user_id": "2",
+          "title": "I also have an album",
+          "photos": [
+            {
+              "id": "5",
+              "album_id": "3",
+              "title": "One photo!",
+              "image": "70423.jpeg",
+              "date_created": "2018-07-10 12:55:26"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "user_id": "2",
+          "title": "I now have two albums!",
+          "photos": [
+            {
+              "id": "6",
+              "album_id": "4",
+              "title": "Ein picture",
+              "image": "70434.jpeg",
+              "date_created": "2018-07-10 12:55:37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Dalania Devitto",
+      "title": "Executive Director",
+      "company": "OVCAA",
+      "profile_photo": "33926.jpg",
+      "friends": [
+        {
+          "id": "1",
+          "name": "Audry Topsy",
+          "title": "Owner",
+          "company": "Topsy Turvy Cake Designs",
+          "profile_photo": "30825.jpg"
+        }
+      ],
+      "posts": [
+        {
+          "id": "7",
+          "user_id": "3",
+          "title": "Empty post",
+          "text": "",
+          "image": "",
+          "link": "",
+          "date_created": "2018-07-10 13:03:48"
+        },
+        {
+          "id": "8",
+          "user_id": "3",
+          "title": "",
+          "text": "No title post",
+          "image": "",
+          "link": "",
+          "date_created": "2018-07-10 13:03:59"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Dr. Elizabeth Chase",
+      "title": "Owner",
+      "company": "Wisdom Pet Medicine",
+      "profile_photo": "15919.jpg",
+      "friends": [
+        {
+          "id": "2",
+          "name": "Dahlia Landon",
+          "title": "CEO",
+          "company": "Landon Hotel",
+          "profile_photo": "15436.jpg"
+        }
+      ],
+      "posts": [
+        {
+          "id": "9",
+          "user_id": "4",
+          "title": "",
+          "text": "",
+          "image": "",
+          "link": "",
+          "date_created": "2018-07-10 13:04:54"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Henry Twill Jr.",
+      "title": "CEO",
+      "company": "H+ Sport",
+      "profile_photo": "34273.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Jason Hemlock",
+      "title": "Principal Design Engineer",
+      "company": "KinetEco",
+      "profile_photo": "15421.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Kirk Hansel",
+      "title": "Co-Owner",
+      "company": "Hansel and Petal",
+      "profile_photo": "30040.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Leslie Richardson",
+      "title": "Administrative Assistant",
+      "company": "Landon Hotel",
+      "profile_photo": "34023.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Nadia Abore",
+      "title": "Owner",
+      "company": "Nadias Garden Restaurant",
+      "profile_photo": "30891.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Phyllis Lucero",
+      "title": "MMH Director of Hospitality - Europe",
+      "company": "Landon Hotel",
+      "profile_photo": "15441.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Sandie Gobnet",
+      "title": "Persona",
+      "company": "City of Orange Valley",
+      "profile_photo": "31047.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Sarah Greer",
+      "title": "Art Director",
+      "company": "Red30 Design",
+      "profile_photo": "34603.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Simon Lodine",
+      "title": "CEO",
+      "company": "KinetEco",
+      "profile_photo": "15432.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Simon Pixelford",
+      "title": "Owner",
+      "company": "Pixelford Photography",
+      "profile_photo": "35193.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Tammy Marley-Cox",
+      "title": "Director of Hospitality",
+      "company": "North America",
+      "profile_photo": "15443.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Tony Luis Salvador",
+      "title": "Principal Landscape Architect",
+      "company": "Leaf and Mortar",
+      "profile_photo": "30745.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Tracy Westbay",
+      "title": "Creative Director",
+      "company": "Explore California",
+      "profile_photo": "35199.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Victor Embargello",
+      "title": "MMH Director of Hospitality - Latin America",
+      "company": "Landon Hotel",
+      "profile_photo": "15444.jpg"
+    }
+  ]
+}
