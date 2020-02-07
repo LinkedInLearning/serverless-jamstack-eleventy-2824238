@@ -5,5 +5,8 @@
   "scripts": {
     "start": "eleventy --serve --quiet"
   },
-  "author": "Ray Villalobos"
+  "author": "Ray Villalobos",
+  "devDependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
