@@ -1,8 +1,8 @@
 ---
 title: Courses
 layout: page
-----
-
+---
+ 
 # {{title}}
 
 <div class="container mt-4">
