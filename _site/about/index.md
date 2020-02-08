@@ -4,6 +4,7 @@ layout: page-hero
 headerHeight: 70vh
 hero: http://pixelprowess.com/i/raybo01.jpg
 summary: Helping people learn full-stack development with a clear, practice style
+permalink: '/about-{{ pkg.author | slug }}/'
 ---
 
 # {{title}}
