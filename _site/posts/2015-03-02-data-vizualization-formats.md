@@ -1,10 +1,11 @@
-# Vector Graphic Formats Used for data visualizations
-
-*In this article, I'll talk about the different graphic formats used for visualizing data and examine some of the differences. Since most visualizations are handled in just a few different vector graphic formats, we'll see why using vectors has advantages over bitmaps because it allows us to illustrate as well as create interactions with very little overhead.*
+---
+title: Vector Graphic Formats Used for data visualizations
+hero: /images/posts/vector.png
+thumbnail: /images/posts/vector_tn.png
+summary: "In this article, I'll talk about the different graphic formats used for visualizing data and examine some of the differences. Since most visualizations are handled in just a few different vector graphic formats, we'll see why using vectors has advantages over bitmaps because it allows us to illustrate as well as create interactions with very little overhead."
+---
 
 ## Vector Graphics
-
-![/images/posts/vector.png](/images/posts/vector.png)
 
 Vector graphics are different than bitmaps because instead of storing information for each pixel in an image, mathematical formulas for each element in an image is stored in a programming language that can rebuild the image on any screen at the best resolution available.
 
@@ -23,8 +24,8 @@ Online graphics are usually served in just a few formats. The most common bitmap
 | Format | Description       |
 | ------ | ----------------- |
 | GIF    | 256 colors max    | Low quality, but only Bitmap format that supports very basic animation |
-| JPEG   | 24-Bit True color | High quality especially on photos, but no animation                    |
-| PNG    | Up to 64-bit      | Smooth transparency, great compression, no animation                   |
+| JPEG   | 24-Bit True color | High quality especially on photos, but no animation |
+| PNG    | Up to 64-bit      | Smooth transparency, great compression, no animation |
 
 ## Vector Graphics Online
 
@@ -51,10 +52,10 @@ The commands for drawing are also more like commands than objects. Here's an exa
 
 ```javascript
 function drawRect() {
-  var canvas = document.getElementById("rect");
-  var context = canvas.getContext("2d");
-  context.fillStyle = "rgb(233,192,117)";
-  context.fillRect(0, 0, 100, 100);
+  var canvas = document.getElementById('rect')
+  var context = canvas.getContext('2d')
+  context.fillStyle = 'rgb(233,192,117)'
+  context.fillRect(0, 0, 100, 100)
 }
 ```
 

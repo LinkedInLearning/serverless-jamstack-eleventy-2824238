@@ -1,23 +1,44 @@
-# Getting the Right Social Media Followers
+---
+title: Getting started creating SVG Graphics
+hero: /images/posts/svggraphics.png
+thumbnail: /images/posts/svggraphics_tn.png
+summary: "A lot of data visualizations use the SVG format to create graphics, so in this article, we'll use SVG to create some basic shapes and graphics. Understanding how the format works will help you when you're using SVG based libraries and frameworks."
+---
 
-![/images/posts/rightsocialmedia.png](/images/posts/rightsocialmedia.png)
+## SVG Graphic Fundamentals
 
-*Everyone talks about getting a lot of followers in social media, but what does that really mean? And why is it even important? Well everyone is wrong. I'm much happier when I focus on getting the right type of followers.*
+Visualization tools like D3.js or C3.js use the SVG (Scalable Vector Graphics) format by default, so it's important to understand how that format uses XML style commands to generate graphics. Let's dive straight into some code.
 
-People are usually surprised when they find out that I'm an introvert. I think it's because I love meeting people at web conferences. I'm almost addicted to it. I recently went to the An Event Apart conference in DC, and although I'm trying to watch what I eat, I religiously went to the lunches and Special events; just to meet the people.
+<a class="jsbin-embed" href="http://jsbin.com/bidevi/3/embed?html,output">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script>
 
-The thing is, I'm a real introvert, the type that never goes to parties, feels awkward in a crowd, and has to retire from social activities after more than a couple of hours. However, I love meeting folks at these events...which is weird. At one of the tables during lunch, I mentioned that going to these conferences is like attending an awesome high school that I always wish existed when I was a kid.
+SVG is pretty easy to read and if you know HTML it should be even easier. An SVG graphic begins and ends with the `<svg></svg>` tags like many other HTML elements and you can add different attributes like the width and height of the graphic. As a matter of fact, the very first thing you do with SVG is specify the canvas that the rest of the graphics will be using.
 
-It's because these people are just like me. It's easy to talk to someone with whom you have lots in common. And evidently, all my social clones assemble and aggregate at these events. I can walk up to just about anyone and geek out and laugh about the same topics. I don't have to explain what kerning or leading is, everyone gets what Twitter is, and I don't have to explain what a phaser is. People walk up to me and say "Why, is that a Github shirt?" and I'm like, "YES!!! You're from my same planet...planet awesome." In contrast, I feel like I can only post pictures of my kids on Facebook, because those friends don't know what I'm talking about. Might as well be speaking Klingon.
+Just like with any other HTML tag we can add a style attribute and pass it common CSS commands, here we've set the color of the background to a bluish medium gray.
 
-It's not that I was super unpopular growing up, it's just that I could never really relate to everyone. I got along with the nerdy outcasts in high school better than everyone else, mostly because I was one myself. I was the classic computer lab aide who quit the basketball team to learn about computers (I'm sure you're making a mental picture of this). People who are different are really interesting. Sometimes those who don't make a lot of friends can make the best friends.
+Inside the SVG tag, you can create additional elements that generate graphics. Here's a comprehensive reference to all of the <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">SVG elements that you can create</a>. Common elements (with examples) include:
 
-Back to the social media friends thing...So it bothers me that people in the industry judge you by how many connections they have. Trust me, I do it too. I peek at the number of followers I have and compare it with how my associates are doing. I feel ashamed about this because my best friends have always been the people with the least friends, not the most.
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/rect">Rectangle</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/circle">Circle</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/ellipse">Ellipse</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/line">Line</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/path">Paths</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/polygon">Polygon</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/polyline">Polyline</a>
 
-At that lunch table, I was really engrossed in a conversation about social media with someone about how to gain followers. I talked about the importance of providing value with your tweets...I try to tweet only when I think I have something interesting or relevant to say. I talked about following the right people who retweet and engage with your conversations and even about making sure your avatars look like a real person to appear authentic. In the meantime, in my peripheral vision, I noticed everyone else in the table had pulled their phone out suddenly.
+|`<path d="M 100 100 L 300 100 L 200 300 z" fill="orange" stroke="black" stroke-width="3" />` | <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/path">Paths</a> |
 
-So I had to stop to find out what was happening. Another tech bubble? Something newer than Periscope? Nope...they were just busy friending each other. What a concept! Here I was talking about how to get followers and I forgot about the importance of making friends. Not just any friends, but the kind that you can relate to. The type of people that I literally friended when I was growing up...the ones just like me.
+- <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/text">Text</a>
 
-There's nothing wrong with getting people to follow you, especially when you need to be able to engage with people to help them, which I need to do for my job. But the amount of followers shouldn't be that important. I'd rather connect with someone like my old friends. People who can really enrich my life because of who they are and not how many followers they have.
+If you come from an HTML background, there are some important things to note about this code. First, you'll notice that the tags use a self closing style when they are single tags. So instead of writing something like `<rect></rect>` you can write something like `<rect> />`. SGV looks like HTML, but it isn't exactly HTML, so an XHTML style is used for the tags. Although most browsers will be forgiving on some traditional XML rules like capitalization, punctuation and quotes around attributes, the format itself is more strict.
 
-It's really important we start focusing on making the right type of social connection. One that's centered on the right kind of people. The type of people you can start a conversation with...because it's great to be more than liked, friended or plussed. It's better to meet people you can relate to and talk to about the things your parents don't get (in my case...the internet), but that you love. Then it won't matter how many followers you have. A friend you can geek out with, is worth a billion followers. If you're from planet awesome, I want to meet you.
+For example, technically, the `<svg>` tag should include an SVG namespace declaration specifying the version and format of the library you're using.
+
+```
+	<svg xmlns="http://www.w3.org/2000/svg" …>
+  	<rect …/>
+	</svg>
+```
+
+Here's where you can <a href="http://www.w3.org/Graphics/SVG/">learn more about the SVG specification</a> and format.
+
+You might also notice that like with HTML we can use the style attribute and use CSS.
