@@ -1,8 +1,8 @@
 ---
-title: Getting started creating SVG Graphics
-hero: /images/posts/svggraphics.png
-thumbnail: /images/posts/svggraphics_tn.png
-summary: "A lot of data visualizations use the SVG format to create graphics, so in this article, we'll use SVG to create some basic shapes and graphics. Understanding how the format works will help you when you're using SVG based libraries and frameworks."
+title: 'Getting the Right Social Media Followers'
+hero: /images/posts/rightsocialmedia.png
+thumbnail: /images/posts/rightsocialmedia_tn.png
+summary: "Everyone talks about getting a lot of followers in social media, but what does that really mean? And why is it even important? Well everyone is wrong. I'm much happier when I focus on getting the right type of followers."
 ---
 
 ## SVG Graphic Fundamentals
