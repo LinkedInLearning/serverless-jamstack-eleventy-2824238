@@ -16,7 +16,7 @@ tags:
     </header>
     <div class="row">
       <div class="col">
-          {%- for item in collections.post -%}
+          {%- for item in collections.post | reverse | limit(5) -%}
           <article class="mb-5 position-relative">
             <div class="row">
               <div class="col-12 col-sm-4">
@@ -36,4 +36,25 @@ tags:
       </div>
     </div>
   </div>
+  <sidebar class="col-12 col-lg-3">
+    <header class="mb-4">
+      <h4 class="text-secondary mt-2 mb-0">Latest Courses</h4>
+      <div class="small">&raquo; <a class="text-muted" href="/courses">more courses</a></div>
+    </header>
+    {%- for item in courses | limit(3) -%}
+    <article class="row mb-5">
+      <div class="col">
+        <img class="img-fluid rounded" src="{{item.thumbnail}}" alt="{{item.title}}">
+        <time class="item-date small d-block text-muted mb-2" datetime="{{item.date}}">{{item.date | courseDate}}</time>
+        <h5>{{item.title}}</h5>
+        <p class="mb-0" style="font-size: .9em">{{item.summary}}</p>
+        <div class="text-right">
+          <a href="{{ item.url | url }}" class="btn btn-sm btn-outline-secondary stretched-link">watch</a>
+        </div>
+      </div>
+    </article>
+    {%- endfor -%}
+  </sidebar>
+
+
 </div>
