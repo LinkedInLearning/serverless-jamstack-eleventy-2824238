@@ -16,7 +16,7 @@ tags:
 
 <ul>
   {% for item in tags %}
-  <li>{{ item }}</li>
+  <li>{{ item | capitalize}}</li>
   {% endfor %}
 </ul>
 
