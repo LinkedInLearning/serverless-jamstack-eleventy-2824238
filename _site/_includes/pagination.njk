@@ -1,0 +1,25 @@
+<nav class="my-3" aria-label="Page navigation">
+  <div class="pagination pagination-sm justify-content-center">
+  {% if pagination.previous %}
+  <div class="page-item">
+    <a class="page-link" href="{{ pagination.previous | url }}"><i class="fas fa-arrow-left"></i></a>
+  </div>
+  {% else %} 
+  <div class="page-item disabled">
+    <span class="page-link disabled" href="{{ pagination.previous | url }}"><i class="fas fa-arrow-left"></i></span>
+  </div>
+  {% endif %} 
+  {% for link in pagination.links %} 
+  <div class="page-item {% if (pagination.pageNumber + 1) == loop.index %}active{% endif %}"><a class="page-link" href="{{ link | url }}">{{ loop.index }}</a></div>
+  {% endfor %} 
+  {% if pagination.next %}  
+  <div class="page-item">
+    <a class="page-link" href="{{ pagination.next | url }}"><i class="fas fa-arrow-right"></i></a>
+  </div>
+  {% else %} 
+  <div class="page-item disabled">
+    <a class="page-link" href="{{ pagination.next | url }}"><i class="fas fa-arrow-right"></i></a>
+  </div>
+  {% endif %}
+  </div>
+</nav>
