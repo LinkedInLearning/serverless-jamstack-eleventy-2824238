@@ -1,6 +1,9 @@
 ---
 title: Clients
 layout: page
+eleventyNavigation:
+  key: clients
+  parent: main
 ---
 
 # {{ title }}

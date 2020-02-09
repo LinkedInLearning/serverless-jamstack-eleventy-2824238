@@ -1,5 +1,6 @@
 const yaml = require('js-yaml');
 const { DateTime } = require('luxon');
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
 
 module.exports = function(eleventyConfig) {
 
@@ -32,6 +33,9 @@ module.exports = function(eleventyConfig) {
   })
 
   eleventyConfig.addFilter('limit', (array, qty) => (qty < 0 ? array.slice(qty): array.slice(0, qty)))
+
+  eleventyConfig.addPlugin(eleventyNavigationPlugin)
+
 
   return {
     markdownTemplateEngine: 'njk',

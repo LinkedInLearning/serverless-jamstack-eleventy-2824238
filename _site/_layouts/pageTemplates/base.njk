@@ -14,6 +14,7 @@ siteTitle: JAMStack with Eleventy
     <link rel="stylesheet" href="/css/styles.css">
     </head>
   <body class="bg-dark">
+  {% include "navigation.njk" %}
   <div class="bg-white">{{ content | safe }}</div>
   {% include "social.njk" %}
   </body>
