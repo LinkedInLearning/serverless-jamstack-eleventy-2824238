@@ -8,6 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('base', 'pageTemplates/base.njk');
   eleventyConfig.addLayoutAlias('page', 'pageTemplates/page.njk');
   eleventyConfig.addLayoutAlias('page-hero', 'pageTemplates/page-hero.njk');
+  eleventyConfig.addLayoutAlias('page-post', 'pageTemplates/page-post.njk');
   eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
 
   eleventyConfig.addShortcode('clientTag', function(name) {

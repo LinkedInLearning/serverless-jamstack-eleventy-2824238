@@ -7,3 +7,10 @@
 .nav-social-icon {
   font-size: 1.3em;
 }
+
+.post img {
+  width: 100%;
+  display: block;
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
