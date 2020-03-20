@@ -1,4 +1,4 @@
-# COURSENAME
+# Building Serverless Apps with JAMStack and Eleventy
 
 This is the repository for the LinkedIn Learning course **Building Serverless Apps with JAMStack and Eleventy**. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-jamstack-and-eleventy/).
 
