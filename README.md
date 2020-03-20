@@ -1,8 +1,8 @@
 # COURSENAME
 
-This is the repository for the LinkedIn Learning course **Building Serverless Apps with JAMStack and Eleventy**. The full course is available from [LinkedIn Learning](<[http://linkedin](https://www.linkedin.com/learning/)>).
+This is the repository for the LinkedIn Learning course **Building Serverless Apps with JAMStack and Eleventy**. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-jamstack-and-eleventy/).
 
-[COURSEDESCRIPTION]
+JavaScript, APIs, and prebuilt markup. It’s called the Jamstack and it's all you need to build a serverless app. The templating and clean basic architecture make it easier to build applications without reinventing the wheel, while retaining the flexibility you need to handle data from a wide variety of sources. Combined with the static site generator Eleventy you have an even more efficient way to create and deliver serverless apps and websites. In this course, instructor Ray Villalobos takes you through a step-by-step project built with the Jamstack and Eleventy. Learn how to build pages from Eleventy templates and layouts, connect to site data through APIs, use features like shortcodes and filters to inject and update content, and group content in collections. Plus, learn how to use pagination to regroup pages and add navigation with plugins.
 
 ## Instructions
 
@@ -15,8 +15,6 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 
-1. To use these exercise files, you must have the following installed:
-   - [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. Install [node/npm](https://nodejs.org/en/)
-4. Install [Git](https://git-scm.com/)
+1. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+1. Install [node/npm](https://nodejs.org/en/)
+1. Install [Git](https://git-scm.com/)
