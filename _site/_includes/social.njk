@@ -1,0 +1,10 @@
+<nav class="nav-social navbar navbar-expand navbar-dark justify-content-center">
+  <div class="navbar-nav">
+  {%- for item in social -%}
+    <a class="nav-item nav-link" target="_blank" href="{{item.url}}">
+      <i class="nav-social-icon {{item.iconClass}} mr-2"></i>
+      <span class="align-text-bottom text-white d-none d-lg-inline">{{item.name}}</span>
+    </a>
+    {%- endfor -%}
+  </div>
+</nav>
