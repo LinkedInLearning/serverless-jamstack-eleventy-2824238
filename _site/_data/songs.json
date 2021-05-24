@@ -1,0 +1,485 @@
+{
+    
+    "songs": [
+      {
+        "added_at": "2021-03-31T15:42:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+                "id": "2ZvrvbQNrHKwjT7qfGFFUW",
+                "name": "Herbie Hancock",
+                "type": "artist",
+                "uri": "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+            },
+            "href": "https://api.spotify.com/v1/albums/61bXefFZqGbVkmb7qzIIOl",
+            "id": "61bXefFZqGbVkmb7qzIIOl",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d1bac93adf4492db2e6ff9f8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d1bac93adf4492db2e6ff9f8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d1bac93adf4492db2e6ff9f8",
+                "width": 64
+              }
+            ],
+            "name": "Takin' Off (Expanded Edition)",
+            "release_date": "1962-05-28",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:61bXefFZqGbVkmb7qzIIOl"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+              },
+              "href": "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+              "id": "2ZvrvbQNrHKwjT7qfGFFUW",
+              "name": "Herbie Hancock",
+              "type": "artist",
+              "uri": "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 429266,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USBN20700544"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/38xcUjiTP1ivfb7ObwjyGA",
+          "id": "38xcUjiTP1ivfb7ObwjyGA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Watermelon Man - Remastered",
+          "popularity": 55,
+          "preview_url": "https://p.scdn.co/mp3-preview/c2735dec530256af0bd7a2dfa37b5fc8f5eb8088?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:38xcUjiTP1ivfb7ObwjyGA"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2021-03-31T15:42:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+                },
+                "href": "https://api.spotify.com/v1/artists/5cbutZUQE7SUCA6MsEMbBv",
+                "id": "5cbutZUQE7SUCA6MsEMbBv",
+                "name": "Hank Mobley",
+                "type": "artist",
+                "uri": "spotify:artist:5cbutZUQE7SUCA6MsEMbBv"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+            },
+            "href": "https://api.spotify.com/v1/albums/731OW49heGHCMrMOREHYlY",
+            "id": "731OW49heGHCMrMOREHYlY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738d277396016ea9ea46d55ce0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028d277396016ea9ea46d55ce0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518d277396016ea9ea46d55ce0",
+                "width": 64
+              }
+            ],
+            "name": "Soul Station",
+            "release_date": "1990",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:731OW49heGHCMrMOREHYlY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+              },
+              "href": "https://api.spotify.com/v1/artists/5cbutZUQE7SUCA6MsEMbBv",
+              "id": "5cbutZUQE7SUCA6MsEMbBv",
+              "name": "Hank Mobley",
+              "type": "artist",
+              "uri": "spotify:artist:5cbutZUQE7SUCA6MsEMbBv"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 369386,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USBN29800803"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
+          },
+          "href": "https://api.spotify.com/v1/tracks/10kVwPSRjUYja0EtdqmXHe",
+          "id": "10kVwPSRjUYja0EtdqmXHe",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
+          "popularity": 49,
+          "preview_url": "https://p.scdn.co/mp3-preview/f2527201426d887d0ec9c2f4b27e59db36f07e10?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:10kVwPSRjUYja0EtdqmXHe"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2021-03-31T15:42:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ykfXAed2KOLOMI3R0TZdz",
+                "id": "6ykfXAed2KOLOMI3R0TZdz",
+                "name": "Art Blakey & The Jazz Messengers",
+                "type": "artist",
+                "uri": "spotify:artist:6ykfXAed2KOLOMI3R0TZdz"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+            },
+            "href": "https://api.spotify.com/v1/albums/5PzlTnVafjgt5RtjTdIKoC",
+            "id": "5PzlTnVafjgt5RtjTdIKoC",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c653150f8ed1f6a12348ba79",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c653150f8ed1f6a12348ba79",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c653150f8ed1f6a12348ba79",
+                "width": 64
+              }
+            ],
+            "name": "Moanin' (Expanded Edition)",
+            "release_date": "1959-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5PzlTnVafjgt5RtjTdIKoC"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+              },
+              "href": "https://api.spotify.com/v1/artists/6QQuESLtKhAOcLW2TeWC2t",
+              "id": "6QQuESLtKhAOcLW2TeWC2t",
+              "name": "Art Blakey",
+              "type": "artist",
+              "uri": "spotify:artist:6QQuESLtKhAOcLW2TeWC2t"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 570720,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USBN29800794"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4Vkk3iD1VrENHJEACNddvt",
+          "id": "4Vkk3iD1VrENHJEACNddvt",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Moanin' - Remastered",
+          "popularity": 55,
+          "preview_url": "https://p.scdn.co/mp3-preview/e606584d1a87fecd1f7628dbb4ab61897020cd1f?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:4Vkk3iD1VrENHJEACNddvt"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2021-03-31T15:42:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+                },
+                "href": "https://api.spotify.com/v1/artists/5v74mT11KGJqadf9sLw4dA",
+                "id": "5v74mT11KGJqadf9sLw4dA",
+                "name": "Cannonball Adderley",
+                "type": "artist",
+                "uri": "spotify:artist:5v74mT11KGJqadf9sLw4dA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Wu0chxAm4GxSeRnIIf2Om",
+            "id": "3Wu0chxAm4GxSeRnIIf2Om",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730f81ed1bf84b3585a8492d3d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020f81ed1bf84b3585a8492d3d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510f81ed1bf84b3585a8492d3d",
+                "width": 64
+              }
+            ],
+            "name": "Somethin' Else (Rudy Van Gelder Edition)",
+            "release_date": "1958",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:3Wu0chxAm4GxSeRnIIf2Om"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+              },
+              "href": "https://api.spotify.com/v1/artists/5v74mT11KGJqadf9sLw4dA",
+              "id": "5v74mT11KGJqadf9sLw4dA",
+              "name": "Cannonball Adderley",
+              "type": "artist",
+              "uri": "spotify:artist:5v74mT11KGJqadf9sLw4dA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 505453,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USBN29800873"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4f0D7T8yswXUJ62AKLoMtS",
+          "id": "4f0D7T8yswXUJ62AKLoMtS",
+          "is_local": false,
+          "is_playable": true,
+          "name": "One For Daddy-O - Remastered",
+          "popularity": 52,
+          "preview_url": "https://p.scdn.co/mp3-preview/2cbd86f656c826fdc7bfcd458fa7eea8c9149000?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:4f0D7T8yswXUJ62AKLoMtS"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2021-03-31T15:42:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/"
+          },
+          "href": "https://api.spotify.com/v1/users/",
+          "id": "",
+          "type": "user",
+          "uri": "spotify:user:"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+                },
+                "href": "https://api.spotify.com/v1/artists/7kjwuPH9RX2FaR1R0Tde4W",
+                "id": "7kjwuPH9RX2FaR1R0Tde4W",
+                "name": "ARTEMIS",
+                "type": "artist",
+                "uri": "spotify:artist:7kjwuPH9RX2FaR1R0Tde4W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
+            },
+            "href": "https://api.spotify.com/v1/albums/2NHS9RKnUaFqVU13hHgDAP",
+            "id": "2NHS9RKnUaFqVU13hHgDAP",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a53e566b13a9ba48ecc4f588",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a53e566b13a9ba48ecc4f588",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a53e566b13a9ba48ecc4f588",
+                "width": 64
+              }
+            ],
+            "name": "ARTEMIS",
+            "release_date": "2020-09-11",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2NHS9RKnUaFqVU13hHgDAP"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+              },
+              "href": "https://api.spotify.com/v1/artists/7kjwuPH9RX2FaR1R0Tde4W",
+              "id": "7kjwuPH9RX2FaR1R0Tde4W",
+              "name": "ARTEMIS",
+              "type": "artist",
+              "uri": "spotify:artist:7kjwuPH9RX2FaR1R0Tde4W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 305285,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USUM72001881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3DeSfcOZOa7DUhLB4LVrpd",
+          "id": "3DeSfcOZOa7DUhLB4LVrpd",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Sidewinder",
+          "popularity": 41,
+          "preview_url": "https://p.scdn.co/mp3-preview/398e2aedc7ae5045b4eee3cd370b950d9cbbff6c?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:3DeSfcOZOa7DUhLB4LVrpd"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      }
+    ],
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTR4ZOXTfd9K/tracks?offset=5&limit=5&market=us",
+    "offset": 0,
+    "previous": null,
+    "total": 90
+  }

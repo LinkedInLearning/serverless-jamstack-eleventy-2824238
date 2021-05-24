@@ -1,0 +1,15 @@
+[
+    {
+      "name": "github",
+      "iconClass": "fab fa-github",
+      "url": "https://github.com/herp05"
+    },
+    {
+      "name": "linkedin",
+      "iconClass": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/harol-rojas-872740191/"
+    },
+    { "name": "youtube", "iconClass": "fab fa-youtube", "url": "https://www.youtube.com/channel/UCJnemoHRpmHHRFYkVRWcEKw" },
+    { "name": "instagram", "iconClass": "fab fa-instagram", "url": "https://www.instagram.com/ecker_p/" }
+  ]
+  

@@ -5,5 +5,12 @@
   "scripts": {
     "start": "eleventy --serve --quiet"
   },
-  "author": "harol"
+  "author": "harol",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
 }

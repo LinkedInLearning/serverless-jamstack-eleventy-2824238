@@ -1,0 +1,690 @@
+{
+  
+    "page1": [
+      {
+        "collaborative": false,
+        "description": "The best music from one of the greatest jazz labels.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTR4ZOXTfd9K"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTR4ZOXTfd9K",
+        "id": "37i9dQZF1DWTR4ZOXTfd9K",
+        "images": "https://i.scdn.co/image/ab67706f00000003c5b0e400643bb009731deeca",
+        "name": "Jazz Classics Blue Note Edition",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxNzIwNTM3NSwwMDAwMDAyOTAwMDAwMTc4ODhmM2IzYTUwMDAwMDE3MGM0YWU2ODJj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTR4ZOXTfd9K/tracks",
+          "total": 90
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTR4ZOXTfd9K",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWTR4ZOXTfd9K",
+        "audio": [
+          {
+            "name": "Watermelon Man - Remastered",
+            "artist": "Herbie Hancock",
+            "spotify": "https://p.scdn.co/mp3-preview/c2735dec530256af0bd7a2dfa37b5fc8f5eb8088?cid=774b29d4f13844c495f206cafdad9c86"
+          },
+          {
+            "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
+            "artist": "Hank Mobley",
+            "spotify": "https://p.scdn.co/mp3-preview/f2527201426d887d0ec9c2f4b27e59db36f07e10?cid=774b29d4f13844c495f206cafdad9c86"
+          },
+          {
+            "name": "Moanin' - Remastered",
+            "artist": "Art Blakey",
+            "spotify": "https://p.scdn.co/mp3-preview/e606584d1a87fecd1f7628dbb4ab61897020cd1f?cid=774b29d4f13844c495f206cafdad9c86"
+          },
+          {
+            "name": "One For Daddy-O - Remastered",
+            "artist": "Cannonball Adderley",
+            "spotify": "https://p.scdn.co/mp3-preview/2cbd86f656c826fdc7bfcd458fa7eea8c9149000?cid=774b29d4f13844c495f206cafdad9c86"
+          },
+          {
+            "name": "The Sidewinder",
+            "artist": "ARTEMIS",
+            "spotify": "https://p.scdn.co/mp3-preview/398e2aedc7ae5045b4eee3cd370b950d9cbbff6c?cid=774b29d4f13844c495f206cafdad9c86"
+          }
+        ]
+      },
+      {
+        "collaborative": false,
+        "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX661EjJOj3Tu"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX661EjJOj3Tu",
+        "id": "37i9dQZF1DX661EjJOj3Tu",
+        "images": "https://i.scdn.co/image/ab67706f000000035e7df2e167e0a8bb5226b428",
+        "name": "Latin Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjY5MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX661EjJOj3Tu/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX661EjJOj3Tu",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX661EjJOj3Tu"
+      },
+      {
+        "collaborative": false,
+        "description": "Some of the world's biggest pop hits in bossa nova versions.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXardnHdSkglX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXardnHdSkglX",
+        "id": "37i9dQZF1DXardnHdSkglX",
+        "images": "https://i.scdn.co/image/ab67706f0000000336e1b35434af08f7d74da968",
+        "name": "Bossa Nova Covers",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMDIyMjU5NSwwMDAwMDAyZTAwMDAwMTc5M2NjYWQyZGEwMDAwMDE3MGFmM2JmMmUy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXardnHdSkglX/tracks",
+          "total": 121
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXardnHdSkglX",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DXardnHdSkglX"
+      },
+      {
+        "collaborative": false,
+        "description": "Soft interpretations of songbook classics.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWY3X53lmPYk9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWY3X53lmPYk9",
+        "id": "37i9dQZF1DWY3X53lmPYk9",
+        "images": "https://i.scdn.co/image/ab67706f000000035d65371406d2e5461127e9ce",
+        "name": "Peaceful Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTUxMzkwMSwwMDAwMDA1ZTAwMDAwMTc5ODljMjk2ODkwMDAwMDE3MGFmNDg5ZGE4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWY3X53lmPYk9/tracks",
+          "total": 52
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWY3X53lmPYk9",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWY3X53lmPYk9"   
+      },
+      {
+        "collaborative": false,
+        "description": "Big bands, big sounds.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6G7arXBXa3A"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6G7arXBXa3A",
+        "id": "37i9dQZF1DX6G7arXBXa3A",
+        "images": "https://i.scdn.co/image/ab67706f00000003978b67e2dce16fe7df5f2dc4",
+        "name": "Big Band",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjY5MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6G7arXBXa3A/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6G7arXBXa3A",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX6G7arXBXa3A"
+      },
+      {
+        "collaborative": false,
+        "description": "The smoothest jazz of the 2000s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5MImizrZfZg"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5MImizrZfZg",
+        "id": "37i9dQZF1DX5MImizrZfZg",
+        "images": "https://i.scdn.co/image/ab67706f00000003527158aa8c2c4f24d6fefdfb",
+        "name": "Smooth Jazz 2000",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjY1NSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5MImizrZfZg/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5MImizrZfZg",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX5MImizrZfZg"
+      },
+      {
+        "collaborative": false,
+        "description": "Slow jazz for evening listening pleasure.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXSyfX6gqDNp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXSyfX6gqDNp",
+        "id": "37i9dQZF1DWXSyfX6gqDNp",
+        "images": "https://i.scdn.co/image/ab67706f0000000319f6abc763347d832b11c885",
+        "name": "Evening Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTUxNjQxNiwwMDAwMDA1OTAwMDAwMTc5ODllOGY1NDkwMDAwMDE2ZDE1NGZjNDNj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXSyfX6gqDNp/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXSyfX6gqDNp",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWXSyfX6gqDNp"
+      },
+      {
+        "collaborative": false,
+        "description": "Happy and swinging jazz.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5YTAi6JhwZm",
+        "id": "37i9dQZF1DX5YTAi6JhwZm",
+        "images": "https://i.scdn.co/image/ab67706f0000000374f164da5db6dc50058aadf8",
+        "name": "Happy Jazz!",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxOTcwMzIyMywwMDAwMDA0OTAwMDAwMTc5MWRkNWQzMGMwMDAwMDE3OGNiNGU4ZDky",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5YTAi6JhwZm/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5YTAi6JhwZm",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX5YTAi6JhwZm"
+      },
+      {
+        "collaborative": false,
+        "description": "The bluesy side of jazz",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9GSZDbrndTa"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9GSZDbrndTa",
+        "id": "37i9dQZF1DX9GSZDbrndTa",
+        "images": "https://i.scdn.co/image/ab67706f00000003bdb3039e7c602922e4e1edcc",
+        "name": "Jazz-Blues",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMjU3MjMzOCwwMDAwMDAwMzAwMDAwMTc1MjBjMTQ2NWQwMDAwMDE3NTFlMDJkMTBj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9GSZDbrndTa/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9GSZDbrndTa",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX9GSZDbrndTa"
+      },
+      {
+        "collaborative": false,
+        "description": "Rapid changes, complex progressions and improvisation. So much improvisation.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6KyCRJzZneq"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6KyCRJzZneq",
+        "id": "37i9dQZF1DX6KyCRJzZneq",
+        "images": "https://i.scdn.co/image/ab67706f0000000384ad23063c0d76f66bb5d6a4",
+        "name": "Best of Bebop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5NzkzNDgxNSwwMDAwMDAxMzAwMDAwMTc0MGM1NjQ4NWEwMDAwMDE3NDBjNTYwNGFh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6KyCRJzZneq/tracks",
+          "total": 45
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6KyCRJzZneq",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX6KyCRJzZneq"
+      },
+      {
+        "collaborative": false,
+        "description": "Jazz voices of today. Cover: Caity Gyorgy",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2kt7dB63bU1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2kt7dB63bU1",
+        "id": "37i9dQZF1DX2kt7dB63bU1",
+        "images": "https://i.scdn.co/image/ab67706f00000003bb27c033d9368a0a628c1a42",
+        "name": "Vocal Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjcxMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2kt7dB63bU1/tracks",
+          "total": 116
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2kt7dB63bU1",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX2kt7dB63bU1"
+      },
+      {
+        "collaborative": false,
+        "description": "Trace the history of jazz from timeless classics to boundary-breaking contemporary favorites. Cover: Nina Simone",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5OepaGriAIm",
+        "id": "37i9dQZF1DX5OepaGriAIm",
+        "images": "https://i.scdn.co/image/ab67706f00000003c02cbb5ef6ffbb5e72a2ab85",
+        "name": "Women of Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxNzk1NzI3OCwwMDAwMDAyYTAwMDAwMTc4YjVjNGQzZGUwMDAwMDE3ODg4NzZkOGZj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5OepaGriAIm/tracks",
+          "total": 125
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5OepaGriAIm",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX5OepaGriAIm"
+      },
+      {
+        "collaborative": false,
+        "description": "The best from Britain's vibrant scene. Cover: Steam Down",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbHcQpOiXk1D",
+        "id": "37i9dQZF1DXbHcQpOiXk1D",
+        "images": "https://i.scdn.co/image/ab67706f000000037eda7f81f01f516fe73f9a9a",
+        "name": "Jazz UK",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjY5NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbHcQpOiXk1D/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbHcQpOiXk1D",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DXbHcQpOiXk1D"
+      },
+      {
+        "collaborative": false,
+        "description": "A progressive fusion of jazz, rock and avant-garde.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9NNVWdU83m6"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9NNVWdU83m6",
+        "id": "37i9dQZF1DX9NNVWdU83m6",
+        "images": "https://i.scdn.co/image/ab67706f0000000333a3b2b77fca2e96c4d784fd",
+        "name": "Prog Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjY1MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9NNVWdU83m6/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9NNVWdU83m6",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX9NNVWdU83m6"
+      },
+      {
+        "collaborative": false,
+        "description": "Because bass. Cover: Victor Wooten",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0N8QTiMHLoT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0N8QTiMHLoT",
+        "id": "37i9dQZF1DX0N8QTiMHLoT",
+        "images": "https://i.scdn.co/image/ab67706f000000033cec33a0ddca3530709093ad",
+        "name": "Bottoms Up",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTgxNjcwNiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0N8QTiMHLoT/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0N8QTiMHLoT",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX0N8QTiMHLoT"
+      },
+      {
+        "collaborative": false,
+        "description": "New jazz for open minds. Cover: Skúli Sverrisson & Bill Frisell",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YCknf2jT6s",
+        "id": "37i9dQZF1DX7YCknf2jT6s",
+        "images": "https://i.scdn.co/image/ab67706f0000000323ec37eb3177f4224b843a6a",
+        "name": "State of Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYyMTU0ODAwMCwwMDAwMDE4OTAwMDAwMTc5OGJjYWUzZjUwMDAwMDE3OThhNzhiNDFm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YCknf2jT6s/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7YCknf2jT6s",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DX7YCknf2jT6s"
+      },
+      {
+        "collaborative": false,
+        "description": "It’s a swing thing.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYotlhbgVGaH"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYotlhbgVGaH",
+        "id": "37i9dQZF1DWYotlhbgVGaH",
+        "images": "https://i.scdn.co/image/ab67706f000000038c76ffe072f5f0e224a5426d",
+        "name": "Swing Revival",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NTA3NDI4NywwMDAwMDAxMzAwMDAwMTcxMGRjYTMzZmMwMDAwMDE2ZDE1M2I0NTY2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYotlhbgVGaH/tracks",
+          "total": 32
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWYotlhbgVGaH",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWYotlhbgVGaH"
+      },
+      {
+        "collaborative": false,
+        "description": "A perfect rendezvous of funk, jazz, R&B, and soul.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYgA6FKKHSd6"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYgA6FKKHSd6",
+        "id": "37i9dQZF1DWYgA6FKKHSd6",
+        "images": "https://i.scdn.co/image/8b236ab004d009cfad3480076a423c10716cf612",
+        "name": "Sax and the City",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxMzcxMDg2MCwwMDAwMDA1MTAwMDAwMTc3YjhhOTlmNjcwMDAwMDE2MmYyYjBlOGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYgA6FKKHSd6/tracks",
+          "total": 118
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWYgA6FKKHSd6",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWYgA6FKKHSd6"
+      },
+      {
+        "collaborative": false,
+        "description": "All the coolest jazz cats",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTG7FCdM1HiA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTG7FCdM1HiA",
+        "id": "37i9dQZF1DWTG7FCdM1HiA",
+        "images": "https://i.scdn.co/image/ab67706f00000003dbe6636989f50834d491fd76",
+        "name": "Cool Jazz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYwMjExMDg2OCwwMDAwMDAwMjAwMDAwMTc1MDUzZmNiODgwMDAwMDE3NTA1M2E4YjNk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTG7FCdM1HiA/tracks",
+          "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTG7FCdM1HiA",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWTG7FCdM1HiA"
+      },
+      {
+        "collaborative": false,
+        "description": "April is Jazz Appreciation Month. Cover: Miles Davis",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTtzPKJEaTC4",
+        "id": "37i9dQZF1DWTtzPKJEaTC4",
+        "images": "https://i.scdn.co/image/ab67706f00000003e701232749329c445a618f36",
+        "name": "Jazz Appreciation: Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxNzI0OTY2MCwwMDAwMDAwYjAwMDAwMTc4OGI5NzZjYzYwMDAwMDE3ODZhOTk2OTg3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTtzPKJEaTC4/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTtzPKJEaTC4",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWTtzPKJEaTC4"
+      },
+      {
+        "collaborative": false,
+        "description": "Funky jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZZfLKhEkflI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZZfLKhEkflI",
+        "id": "37i9dQZF1DWZZfLKhEkflI",
+        "images": "https://i.scdn.co/image/ab67706f00000003129f67098bc1636b2374e5ed",
+        "name": "Hard Bop Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTYxNzE5NjA3NywwMDAwMDAwNzAwMDAwMTc4ODg2NWQyYjgwMDAwMDE3N2QzYjNjOGQ3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZZfLKhEkflI/tracks",
+          "total": 68
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZZfLKhEkflI",
+        "embed": "https://open.spotify.com/embed/playlist/37i9dQZF1DWZZfLKhEkflI"
+      }
+      
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/jazz/playlists?country=US&offset=40&limit=20",
+    "offset": 20,
+    "previous": "https://api.spotify.com/v1/browse/categories/jazz/playlists?country=US&offset=0&limit=20",
+    "total": 62
+  
+}

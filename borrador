@@ -1,0 +1,39 @@
+<p class="mt-1"> 
+  <h5 class="">{{item.audio[0].name}}</h5>
+  <h6 class="card-title text-muted">{{item.audio[0].artist}}</h6>
+  <audio controls="controls">
+     <source src="<%Reponse.Write({{item.audio[0].spotify}});%>" type="audio/mpeg">
+  </audio>
+</p>
+
+<p class="mt-1"> 
+  <h5 class="">{{item.audio[1].name}}</h5>
+  <h6 class="card-title text-muted">{{item.audio[1].artist}}</h6>
+  <audio controls>
+    <source src="{{item.audio[1].spotifyl}}"> 
+  </audio>
+</p>
+
+<p class="mt-1"> 
+  <h5 class="">{{item.audio[2].name}}</h5>
+  <h6 class="card-title text-muted">{{item.audio[2].artist}}</h6>
+  <audio controls>
+    <source src="{{item.audio[2].spotifyl}}"> 
+  </audio>
+</p>
+
+<p class="mt-1"> 
+  <h5 class="">{{item.audio[3].name}}</h5>
+  <h6 class="card-title text-muted">{{item.audio[3].artist}}</h6>
+  <audio controls>
+    <source src="{{item.audio[3].spotifyl}}"> 
+  </audio>
+</p>
+
+<p class="mt-1"> 
+  <h5 class="">{{item.audio[4].name}}</h5>
+  <h6 class="card-title text-muted">{{item.audio[4].artist}}</h6>
+  <audio controls>
+    <source src="{{item.audio[4].spotifyl}}"> 
+  </audio>
+</p>
