@@ -3,7 +3,7 @@ title: Podcasts
 layout: page-2
 ---
 
-# {{ title }}
+<h1 style="color: #091E47;">{{ title }}</h1>
 
 <div class="container mt-5">
   <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">

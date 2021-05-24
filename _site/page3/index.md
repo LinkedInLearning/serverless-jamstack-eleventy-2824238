@@ -1,28 +1,48 @@
 ---
-title: Page3
+title: Places
 layout: page-3
 ---
 
-# {{ title }}
+<h1 style="color: #091E47;">{{ title }}</h1>
 
-<div class="container mt-4">
+<div class="container mt-5">
   <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">  
 
 {% for item in page3 %}
 
-  <div class="col mb-4">
-    <div class="card h-100">
-      <h5 class="card-header text-white bg-secondary mb-0">{{item.id}}</h5>
-      <img src="{{item.profile_photo}}" class="w-50 d-block mb-3" alt="{{item.name}}">
+  <div class="card" style="width: 18rem;">
+    <div style=”width: 141px; height: 176px; overflow: hidden;">  
+      <img src="{{ item.image_url | url }}" class="card-img-top" id="crop" alt="...">
+    </div>   
       <div class="card-body">
-        <h6 class="card-title text-muted my-0"></h6>
-        <div class="card-text font-italic my-0"></div>
-        <a class="btn btn-sm btn-outline-secondary card-link mt-2 stretched-link" href="{{item.name | slug}}">more info</a>
+            <h5 class="card-title">{{item.name}}</h5>
+            <p class="card-text">{{item.location.display_address}}</p>
       </div>
-    </div>
+      <ul class="list-group list-group-flush">
+          <li class="list-group-item">Price: {{item.price}}</li>
+          <li class="list-group-item"> Reviews: {{item.review_count}} <br> Rating: {{item.rating}}</li>
+          <li class="list-group-item">Phone: {{item.display_phone}}</li>
+      </ul>
+      <div class="card-body">
+          <a href="{{item.go | url}}" class="card-link" target="_blank">Go!</a>
+          <a href="{{item.url}}" class="card-link" target="_blank">Yelp</a>
+      </div> 
   </div>
 
 {% endfor %}
 
   </div>
 </div>
+
+<style>
+#crop {
+    width: 261px; /* width of container */
+    height: 266px; /* height of container */
+    object-fit: cover;
+    border: 5px solid #040832;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 55px;
+}
+</style>

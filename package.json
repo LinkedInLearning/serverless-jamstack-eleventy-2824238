@@ -1,8 +1,9 @@
 {
-  "name": "serverless",
+  "name": "jazz-corner",
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course **Building Serverless Apps with JAMStack and Eleventy**. The full course is available from [LinkedIn Learning](<[http://linkedin](https://www.linkedin.com/learning/)>).",
   "scripts": {
+    "build": "eleventy",
     "start": "eleventy --serve --quiet"
   },
   "author": "harol",
@@ -10,6 +11,7 @@
     "node-fetch": "^2.6.1"
   },
   "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
     "axios": "^0.21.1",
     "dotenv": "^10.0.0"
   }

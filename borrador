@@ -37,3 +37,18 @@
     <source src="{{item.audio[4].spotifyl}}"> 
   </audio>
 </p>
+
+
+
+
+
+---
+title: Kings and Queens of Futbol
+date: created
+layout: page
+---
+# {{ title }}
+
+<div class="button">
+				<a href="page1/index.html">Let's Go</a>
+</div>

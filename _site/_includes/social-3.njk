@@ -1,9 +1,9 @@
-<nav class="nav-social navbar navbar-expand navbar- justify-content-center" style="background-color: #B2F0C3">
+<nav class="nav-social navbar navbar-expand navbar- justify-content-center" style="background-color: #040832">
   <div class="navbar-nav">
     {%- for item in social -%} 
     <a class="nav-item nav-link" target="_blank" href="{{item.url}}">
-      <i class="nav-social-icon {{item.iconClass}} mr-2"></i>
-      <span class="align-text-bottom text-white d-none d-lg-inline">{{item.name}}</span>
+      <i class="nav-social-icon {{item.iconClass}} mr-2" style="color: white;"></i>
+      <span class="align-text-bottom text- d-none d-lg-inline" style="color: white;">{{item.name}}</span>
     </a>
     {%- endfor -%}
   </div>
